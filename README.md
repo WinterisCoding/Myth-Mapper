@@ -1,3 +1,29 @@
+# Myth Mapper (Working Title)
+
+This is an updated verison of my solo React App Project for Juno College - The Hero's Journey.
+
+This app will have essentially the same functionality but greatly expanded. The goal of the App is to offer analysis of and guidance through the steps of the Hero's Journey, whether for writers, students or anyone curiouos.
+
+The original App provided two sample heros to choose from for example text and walked the user through the 12 step version of the Hero's Journey. It then displayed the user's entries on a vertical timeline that the user was able to edit inline and saved the entries to a realtime database on Firebase.
+
+## New Version
+
+The new version of the app will expand the original with the following features
+
+- 5 Example Heros to choose from for Example Text
+- The ability for the user to name their hero and save multiple heros on their profile
+- Updated UI which allows the user to navigate to any step of the journey at any time, rather than the current "Quiz" style
+- The ability to change which example hero is active on the fly
+- The ability to toggle which version of the Hero's Journey the user wishes to explore. Be it Campbell's original 17 step or the more common 12, it will also provide an example of the "Save the Cat" version and a "Heroine's Journey"
+- The App will feature an about page for each version of the Hero's Journey, with history, criticism, etc
+- The App will allow the user to designate their antagonists (Shadows) and allies (Mentors, Allies) and recommend where the user should mention and implement these secondary characters.
+- The App will give the user a choice of how to display their hero's journey, as a cycle, a horizontal, or a vertical timeline. 
+-The ability for the user to export their input as a printable document or save it as a pdf etc.
+
+The reason I am restarting instead of just expanding on the previous app is I have learned so much about React since the original project and it would probably be more work to try and refactor as opposed to starting fresh with a better perspective.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
